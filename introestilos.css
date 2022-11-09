@@ -1,0 +1,36 @@
+.colores {
+    color: blueviolet;
+}
+.color-hexadecimal {
+    color: #AAEFDF;
+}
+.color-rgb {
+    color: rgb(77, 155, 89)
+}
+.color-rgba {
+    color: rgba(226, 126, 226, 0.4);
+}
+.Fondo {
+    background-position: right bottom;
+    background-image: url(https://cdn.pixabay.com/photo/2016/06/02/02/33/triangles-1430105__480.png)
+    
+}
+.Fondo-Interno {
+    background-position: center bottom;
+    background-image: url(https://cdn.pixabay.com/photo/2016/06/02/02/33/triangles-1430105__480.png)
+    
+}
+.ancho {
+    background-color: aquamarine;
+    width: 125px;
+}
+.alto {
+    background-color: cyan;
+    height: 100px;
+}
+.tarjeta {border-style: groove;
+    border-color: rgb(150, 50, 100);
+    border-width: 10px;
+    padding: 10px 20px;
+    margin: 20px;
+}
